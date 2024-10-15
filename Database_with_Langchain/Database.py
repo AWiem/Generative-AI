@@ -10,7 +10,7 @@ load_dotenv()
 
 # Database connection parameters
 db_user = "root"
-db_password = "Ridhamonia1*"
+db_password = "************"
 db_host = "localhost"
 db_name = "retail_sales_db"
 
